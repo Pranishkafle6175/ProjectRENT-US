@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>rent.jpg</file>
+        <file>logo.png</file>
+        <file>resized.png</file>
+        <file>image2.jpg</file>
+        <file>room3.jpg</file>
+        <file>image2 - Copy.jpg</file>
+        <file>image3 - Copy.jpg</file>
+        <file>image4 - Copy.jpg</file>
+        <file>image6 - Copy.jpg</file>
+        <file>room1 - Copy.jpg</file>
+        <file>room2.jpg</file>
+    </qresource>
+</RCC>
